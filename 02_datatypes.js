@@ -14,6 +14,3 @@ let isLOGGEDin = true
 // symbol 
 
 
-//object 
-
-console.log (typeof yuvraj);
